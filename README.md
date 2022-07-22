@@ -25,6 +25,11 @@ Install the required pacakages
 ``` shell
 pip install -r requirements.txt
 ```
+then run the project 
+``` shell 
+python fastestlap.py 
+```
+
 the first time you run the project it will take some time downloading all the cache. 
 
 
