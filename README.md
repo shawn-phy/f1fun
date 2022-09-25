@@ -12,7 +12,7 @@ Insights in F1 serve to improve the viewing experience and overall enjoyment by 
 DISCLAIMER: This is not an official project and is not in any way related to the Formula 1 group.
 
 # Usage 
-Clone the repository
+Clone the repository on your machine
 ```shell 
 git clone https://github.com/shawn-phy/f1fun.git
 ```
